@@ -17,7 +17,10 @@
 
 Необходимость в дополнительных библиотеках отсутвует.
 
-``` python3 parse.py "http://google.com"  ```
+``` 
+wget https://github.com/AVMineev/sitemap_generator/blob/main/parse.py
+python3 parse.py "http://google.com"  
+```
  
  В локальной директории создается sitemap.xml и sitemap.sql
  
