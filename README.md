@@ -45,3 +45,8 @@
 
 
 #### Параметры компьютера на котором были получены результаты
+   **CPU**: Intel Pentium (Intel BayTrail M Quad-Core 3530 2.58GHz)
+   
+   **OS**: Ubuntu 20.04.2 LTS
+   
+   **Memory**: 4GB
